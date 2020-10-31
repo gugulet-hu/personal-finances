@@ -7,8 +7,10 @@ An Excel spreadsheet to keep track of your personal finances. Includes an intera
 ## How to get started
 
 -    Download the spreadsheet
--    Open the seetings sheet and set your categories and goals
+-    Open the settings sheet and set your categories and goals
 -    Open the transaction sheet
 -    Record your first transaction
 
 You can read the full documentation [here](https://github.com/gugulet-hu/personal-finances/wiki)
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text"><a rel="cc:attributionURL" property="dct:title" href="gugulet.hu/projects#finances">Personal Finances</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="gugulet.hu">Gugulethu Hlekwayo</a> is licensed under <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" /></a></p>
