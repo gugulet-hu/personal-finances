@@ -13,4 +13,6 @@ An Excel spreadsheet to keep track of your personal finances. Includes an intera
 -    Open the transaction sheet
 -    Record your first transaction
 
-You can read the full documentation [here](https://github.com/gugulet-hu/personal-finances/wiki)
+You can read the full documentation [here](https://github.com/gugulet-hu/personal-finances/wiki).
+
+Icons: [icons8](https://icons8.com)
